@@ -1,0 +1,5 @@
+^cats\.Rproj$
+^\.Rproj\.user$
+^cats\.Rcheck$
+^cats.*\.tar\.gz$
+^cats.*\.tgz$
