@@ -3,3 +3,6 @@
 ^cats\.Rcheck$
 ^cats.*\.tar\.gz$
 ^cats.*\.tgz$
+^r4xie186\.Rcheck$
+^r4xie186.*\.tar\.gz$
+^r4xie186.*\.tgz$
